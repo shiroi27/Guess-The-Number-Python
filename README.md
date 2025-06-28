@@ -1,5 +1,6 @@
 ## 📸 Preview  
-![Guess the Number Game Screenshot]
+![Guess the Number Game Screenshot](https://github.com/user-attachments/assets/57f67bfe-0eb1-4b27-8904-f6f88f430949)
+
 
 ---
 
@@ -36,7 +37,7 @@ Put your intuition to the test in this colorful and interactive number guessing 
    git clone https://github.com/shiroi27/Guess-The-Number-Python.git
    cd Guess-The-Number-Python
 ```
-2.	Run the Python script
+2. Run the Python script
 ```bash
    python Guess_the_num.py
 ```
