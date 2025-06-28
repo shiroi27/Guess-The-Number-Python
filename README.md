@@ -48,7 +48,7 @@ Put your intuition to the test in this colorful and interactive number guessing 
 
 🧠 What I Learned
 
-This project helped me:
+This project helped me :
 	•	Practice user input validation
 	•	Understand logic loops in GUI programs
 	•	Handle conditional flows with popups
